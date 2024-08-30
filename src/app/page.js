@@ -8,7 +8,7 @@ export default function Home() {
         <p>Scar Studios</p>
       </div>
 
-      <div className="relative flex place-items-center font-Bahnschrift text-8xl text-colorBrand-1">
+      <div className="relative flex place-items-center font-Bahnschrift text-5xl md:text-6xl lg:text-8xl text-colorBrand-1">
         <h1>Coming Soon!!</h1>
       </div>
     </main>
